@@ -1,0 +1,15 @@
+.mid_container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.right {
+    width: 500px;
+    background-color: #EEF1F6;
+}
+
+.mid_container_para {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
